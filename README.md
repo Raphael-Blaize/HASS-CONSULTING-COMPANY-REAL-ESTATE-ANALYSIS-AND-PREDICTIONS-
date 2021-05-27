@@ -49,10 +49,10 @@ As a Data Scientist, you work for Hass Consulting Company which is a real estate
 * Multicollinearity tests
 * Heteroskdasticity tests
 * Multiple Linear Regression
- * Quantile Regression
- * Ridge Regression
- * Lasso Regression
- * Elastic Net Regression
+* Quantile Regression
+* Ridge Regression
+* Lasso Regression
+* Elastic Net Regression
    
 ### Technologies
 * Python
@@ -96,10 +96,13 @@ import numpy as np # offers comprehensive mathematical functions etc
             * Residual plots
             * Bartlett's test
        * Machine Learning algorithms
-            * Polynomial Regression
-            * Logistic Regression
-       * K-fold cross validation
-       * Grid-search 
+            * * Multiple Linear Regression
+            * Quantile Regression
+            * Ridge Regression
+            * Lasso Regression
+            * Elastic Net Regression
+            * K-fold cross validation
+            * Grid-search 
 
    
 ## Needs of this project
